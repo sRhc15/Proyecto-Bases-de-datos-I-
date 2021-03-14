@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#slider{
+    height: 550px;
+    overflow: hidden;
+}
+
+#slider img{
+    height: 450px;
+}
