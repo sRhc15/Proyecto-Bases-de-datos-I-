@@ -16,10 +16,6 @@ $(document).ready(function() {
         barra.style.width = contador + '%';
         barra.innerHTML = contador +'%';
     },1000);
-    /*
-    var nombre = 'Ricardo Hernandez';
-    var estatura = 165;
-    var datos = document.getElementById('datos');
-    datos.innerHTML = `<h2>Mi nombre es ${nombre}</h2> <br> <h3>Estatura: ${estatura}</h3>`;*/
+    
 });
 
